@@ -494,8 +494,8 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- GZOSP CAF manifest -->
-  <include name="mosp_default.xml" />
+  <!-- MoonOS CAF manifest -->
+  <include name="moon_default.xml" />
 
   <!-- GZOSP CAF manifest -->
   <include name="caf_default.xml" />
