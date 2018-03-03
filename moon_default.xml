@@ -5,7 +5,7 @@
            fetch="https://github.com" />
 
   <remote  name="mosp"
-           fetch="https://github.com/MOSP-ROM" />
+           fetch="https://github.com/MoonOS-Project" />
 
   <remote  name="gzosp"
            fetch="https://github.com/GZOSP" />
@@ -98,6 +98,6 @@
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="gzosp" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
-  <project path="vendor/mosp" name="vendor_mosp" remote="mosp" revision="mosp-o" />
+  <project path="vendor/moon" name="vendor_moon" remote="mosp" revision="mosp-o" />
 
 </manifest>
