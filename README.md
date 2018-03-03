@@ -12,7 +12,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/MOSP-ROM/manifest -b mosp-o
+    $ repo init -u https://github.com/MoonOS-Project/manifest -b mosp-o
 
 Sync the repository:
 
@@ -31,8 +31,8 @@ After the sync is finished, please read the [instructions from the Android site]
 You can also build for specific devices (eg. osprey) like this:
 
     . build/envsetup.sh
-    lunch mosp_osprey-userdebug
-    mka mosp -j8
+    lunch moon_osprey-userdebug
+    mka moon -j8
 
 Remember to `make clobber && make clean` every now and then!
 
