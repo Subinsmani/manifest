@@ -36,7 +36,7 @@
   <project path="bionic" name="bionic" groups="pdk" remote="mosp" revision="mosp-o" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="development" name="development" groups="pdk-cw-fs,pdk-fs" remote="mosp" revision="mosp-o" />
-  <project path="device/mosp/sepolicy" name="device_mosp_sepolicy" remote="mosp" revision="mosp-o" />
+  <project path="device/moon/sepolicy" name="device_moon_sepolicy" remote="mosp" revision="mosp-o" />
   <project path="external/connectivity" name="external_connectivity" groups="pdk" remote="gzosp" />
   <project path="external/ebtables" name="external_ebtables" groups="pdk" remote="gzosp" />
   <project path="external/exfat" name="external_exfat" remote="gzosp" />
