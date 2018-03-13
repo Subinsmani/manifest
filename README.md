@@ -12,7 +12,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/MoonOS-Project/manifest -b mosp-o
+    $ repo init -u https://github.com/AOSMP/manifest -b mosp-o
 
 Sync the repository:
 
