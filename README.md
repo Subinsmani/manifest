@@ -1,3 +1,4 @@
+<img src="https://github.com/AOSMP/manifest/raw/mosp-o/mosp_about_logo.png">
 AOSMP
 =====
 
