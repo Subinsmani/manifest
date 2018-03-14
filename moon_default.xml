@@ -3,6 +3,9 @@
 
   <remote  name="github"
            fetch="https://github.com" />
+  
+    <remote  name="los"
+           fetch="https://github.com/LineageOS" />
 
   <remote  name="mosp"
            fetch="https://github.com/AOSMP" />
@@ -99,5 +102,6 @@
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
   <project path="vendor/moon" name="vendor_moon" remote="mosp" revision="mosp-o" />
+  <project path="external/bson" name="android_external_bson" remote="los" revision="lineage-15.1" />
 
 </manifest>
