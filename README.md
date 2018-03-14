@@ -1,7 +1,7 @@
 AOSMP
 =====
 
-<img src="https://github.com/AOSMP/manifest/raw/mosp-o/mosp_about_logo.png">
+<img src="https://github.com/AOSMP/manifest/raw/mosp-o/mosp_about_logo.png.png">
 
 Download the Source
 ===================
